@@ -2,6 +2,8 @@
 
 Interactive guide to download, import, and process the data included in the dataset available on Zenodo at the following link: https://zenodo.org/deposit/4633087 
 
+If you use the dataset, please cite the paper "A Dataset of Human Motion and Muscular Activities in Manual Material Handling tasks for Biomechanical and Ergonomic Analyses." (Bassani et al., IEEE Sensors, submitted).
+
 The live script contains 7 steps:
   1.	The first step allows the user to select the data to download from the Zenodo link. To use the dataset the user must select at least the “EMG_Data”, the “EMG_Labels”, the         “mvnx_files”, and the “mvnx_Labels” zipped files.
   2.	The second step extracts the contents of the zipped files downloaded.
